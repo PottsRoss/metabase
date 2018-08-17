@@ -12,7 +12,7 @@ type ColorFamily = { [name: ColorName]: ColorString };
 // NOTE: KEEP SYNCRONIZED WITH COLORS.CSS
 /* eslint-disable no-color-literals */
 const colors = {
-  brand: "#509EE3",
+  brand: "#cbd329",
   accent1: "#9CC177",
   accent2: "#A989C5",
   accent3: "#EF8C8C",
